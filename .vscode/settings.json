@@ -1,0 +1,5 @@
+{
+    "css.lint.argumentsInColorFunction": "ignore",
+    "css.lint.hexColorLength": "ignore",
+    "materialTheme.accent": "Breaking Bad"
+}
